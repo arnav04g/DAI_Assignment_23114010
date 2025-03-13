@@ -69,7 +69,7 @@ Resort Hotel,0,3,27,0,2,2,0,BB,ESP,Online TA,TA/TO,A,C,0,No Deposit,Transient,11
 Resort Hotel,0,51,27,0,2,2,0,BB,POL,Online TA,TA/TO,D,D,0,No Deposit,Transient,97,0
 City Hotel,1,71,27,0,2,3,0,BB,PRT,Offline TA/TO,TA/TO,A,A,0,No Deposit,Transient,110.3,0
 Resort Hotel,1,63,27,0,2,2,0,BB,PRT,Online TA,TA/TO,A,A,0,No Deposit,Transient,82,0
-City Hotel,1,,27,0,2,2,0,BB,PRT,Online TA,TA/TO,D,D,0,No Deposit,Transient,97,0
+City Hotel,1,2,27,0,2,2,0,BB,PRT,Online TA,TA/TO,D,D,0,No Deposit,Transient,97,0
 City Hotel,1,101,27,0,2,2,0,BB,PRT,Online TA,TA/TO,A,A,0,No Deposit,Transient,73.8,0
 Resort Hotel,0,2,27,0,2,2,0,HB,PRT,Offline TA/TO,TA/TO,A,A,0,No Deposit,Transient,91.5,0
 Resort Hotel,0,15,27,0,2,2,0,BB,ESP,Online TA,TA/TO,A,A,0,No Deposit,Transient,114.5,0
@@ -81,15 +81,15 @@ Resort Hotel,0,72,27,2,2,2,0,BB,DEU,Offline TA/TO,TA/TO,A,A,0,No Deposit,Transie
 Resort Hotel,0,81,27,2,6,3,0,BB,PRT,Offline TA/TO,TA/TO,D,D,0,No Deposit,Transient,85.86,0
 City Hotel,0,99,27,2,7,2,0,BB,FRA,Offline TA/TO,TA/TO,A,A,0,No Deposit,Contract,58.95,0
 City Hotel,1,368,27,3,7,2,0,BB,PRT,Offline TA/TO,TA/TO,A,A,0,No Deposit,Contract,55.68,0
-Resort Hotel,0,364,27,3,7,,0,BB,GBR,Offline TA/TO,TA/TO,A,A,0,No Deposit,Contract,55.68,0
-City Hotel,1,81,27,3,7,2,,HB,PRT,Direct,Direct,A,A,2,No Deposit,Transient,124,0
+Resort Hotel,0,364,27,3,7,1,0,BB,GBR,Offline TA/TO,TA/TO,A,A,0,No Deposit,Contract,55.68,0
+City Hotel,1,81,27,3,7,2,0,HB,PRT,Direct,Direct,A,A,2,No Deposit,Transient,124,0
 City Hotel,0,99,27,3,7,2,0,HB,GBR,Offline TA/TO,TA/TO,E,E,0,No Deposit,Contract,111.15,0
-Resort Hotel,0,,27,4,10,2,0,HB,GBR,Offline TA/TO,TA/TO,E,E,0,No Deposit,Contract,134.73,0
+Resort Hotel,0,2,27,4,10,2,0,HB,GBR,Offline TA/TO,TA/TO,E,E,0,No Deposit,Contract,134.73,0
 Resort Hotel,0,69,27,4,10,2,0,BB,GBR,Online TA,TA/TO,F,F,1,No Deposit,Transient,92.45,0
 City Hotel,1,79,27,6,15,2,1,BB,PRT,Offline TA/TO,TA/TO,A,A,0,No Deposit,Transient,108.73,0
-Resort Hotel,0,12,27,0,1,,0,BB,GBR,Online TA,TA/TO,A,C,0,No Deposit,Transient,73.8,0
+Resort Hotel,0,12,27,0,1,1,0,BB,GBR,Online TA,TA/TO,A,C,0,No Deposit,Transient,73.8,0
 Resort Hotel,0,9,27,0,1,2,0,BB,PRT,Online TA,TA/TO,A,C,0,No Deposit,Transient,98,1
-Resort Hotel,0,1,27,0,1,,0,BB,ESP,Online TA,TA/TO,A,C,0,No Deposit,Transient,131,0
+Resort Hotel,0,1,27,0,1,1,0,BB,ESP,Online TA,TA/TO,A,C,0,No Deposit,Transient,131,0
 Resort Hotel,0,21,27,0,1,2,0,BB,PRT,Online TA,TA/TO,E,E,0,No Deposit,Transient,123,0
 City Hotel,0,9,27,0,1,2,0,BB,USA,Online TA,TA/TO,C,C,0,No Deposit,Transient,94.71,0
 City Hotel,0,109,27,0,1,2,0,BB,BEL,Online TA,TA/TO,A,A,0,No Deposit,Transient,123,0
@@ -97,7 +97,7 @@ City Hotel,1,109,27,0,2,2,0,BB,PRT,Online TA,TA/TO,A,A,0,No Deposit,Transient,12
 City Hotel,1,72,27,0,2,2,0,BB,PRT,Online TA,TA/TO,A,A,0,No Deposit,Transient,73.8,0
 Resort Hotel,1,63,27,2,5,2,0,BB,PRT,Online TA,TA/TO,F,F,0,No Deposit,Transient,117,0
 City Hotel,0,63,27,2,5,3,0,HB,ESP,Offline TA/TO,TA/TO,E,E,0,No Deposit,Transient,196.54,0
-Resort Hotel,0,,27,2,5,,1,BB,PRT,Online TA,TA/TO,D,D,0,No Deposit,Transient,99.3,1
+Resort Hotel,0,3,27,2,5,,1,BB,PRT,Online TA,TA/TO,D,D,0,No Deposit,Transient,99.3,1
 Resort Hotel,0,102,27,2,5,2,0,BB,DEU,Direct,Direct,E,E,0,No Deposit,Transient,90.95,0
 Resort Hotel,0,4,27,2,1,2,0,BB,ESP,Direct,Direct,A,C,0,No Deposit,Transient,92.67,0
 Resort Hotel,0,,27,2,1,2,0,BB,FRA,Offline TA/TO,TA/TO,D,D,0,No Deposit,Transient,71.55,1
