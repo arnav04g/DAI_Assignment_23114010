@@ -40,7 +40,8 @@ The dataset I used is attached in the repository as a csv file . The dataset is 
 
     
    •Skewness Interpretation:
-Most features are slightly skewed, except for children, booking changes, and parking requests, which are highly right-skewed. Adults and weekend stays are almost symmetric.
+Most features are slightly skewed, except for children, booking changes, and parking requests, which are highly right-skewed. Adults and weekend stays are almost symmetric.  
+
     •Variance Highlights:
 Lead time and ADR have the highest variance, indicating a wide range of values.
 Adults per booking and week number have the lowest variance, suggesting consistency.
