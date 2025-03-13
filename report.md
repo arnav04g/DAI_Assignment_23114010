@@ -57,7 +57,7 @@ Adults per booking and week number have the lowest variance, suggesting consiste
     •Market Segments:
     •Online TA (454), Offline TA/TO (178), Direct (146), Groups (15), Corporate (10), Complementary (1)
 
-    •D    itribution Channels:
+    •Distribution Channels:
     •TA/TO (636), Direct (158), Corporate (10)
 
     •Reserved Room Types:
@@ -104,9 +104,9 @@ Adults per booking and week number have the lowest variance, suggesting consiste
     •(Boxplots) ADR suggests that room prices vary over time indicating seasonal variation 
 ### Inferences from the Heatmap and Grouped Variable Data
     •Weak correlation of is_cancelled with lead_time indicates that advance bookings get cancelled less.
-    •	People often tend to extend their weekend stays over weekdays .
-    •	If a family requires parking space then they are less likely to cancel a booking 
-    •	If a family has more children then ADR is higher.
+    •People often tend to extend their weekend stays over weekdays .
+    •If a family requires parking space then they are less likely to cancel a booking 
+    •If a family has more children then ADR is higher.
 
 
 
