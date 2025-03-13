@@ -25,17 +25,19 @@ The dataset I used is attached in the repository as a csv file . The dataset is 
     For all the EDA steps performed , I will describe the process and my observations :
     •Performing the summary statistics on my report , I found out that :
    
-Feature	                  Mean	  Median          Mode	    Skewness Variance
-Cancellation Rate	      0.277	  0.0	           0.0	      0.996	     0.2007
-Lead Time	              52.10	  48.0	           48.0	      0.247	   1133.29
-Week Number  	          28.93	  29.0	           29.0	      0.043	   1.6059
-Weekend Stays	          1.29	  1.0              2.0	     -0.045	   0.9567
-Weekday Stays	          3.45	  3.0	           5.0	       0.061   	3.7493
-Adults per Booking	      1.99	  2.0              2.0	     -0.103	   0.1158
-Children per Booking      0.18	  0.0	           0.0	      2.789	   0.2799
-Booking Changes	          0.14	  0.0	           0.0	      2.102	   0.1191
-Average Daily Rate (ADR)  125.28  123.0        	195.0	      0.274	   1189.09
-Parking Requests	      0.14	  0.0	           0.0	       2.029   0.1236
+| Feature                   | Mean   | Median | Mode  | Skewness | Variance  |
+|---------------------------|--------|--------|-------|----------|-----------|
+| Cancellation Rate         | 0.277  | 0.0    | 0.0   | 0.996    | 0.2007    |
+| Lead Time                | 52.10  | 48.0   | 48.0  | 0.247    | 1133.29   |
+| Week Number              | 28.93  | 29.0   | 29.0  | 0.043    | 1.6059    |
+| Weekend Stays            | 1.29   | 1.0    | 2.0   | -0.045   | 0.9567    |
+| Weekday Stays            | 3.45   | 3.0    | 5.0   | 0.061    | 3.7493    |
+| Adults per Booking       | 1.99   | 2.0    | 2.0   | -0.103   | 0.1158    |
+| Children per Booking     | 0.18   | 0.0    | 0.0   | 2.789    | 0.2799    |
+| Booking Changes          | 0.14   | 0.0    | 0.0   | 2.102    | 0.1191    |
+| Average Daily Rate (ADR) | 125.28 | 123.0  | 195.0 | 0.274    | 1189.09   |
+| Parking Requests         | 0.14   | 0.0    | 0.0   | 2.029    | 0.1236    |
+
     
    •Skewness Interpretation:
 Most features are slightly skewed, except for children, booking changes, and parking requests, which are highly right-skewed. Adults and weekend stays are almost symmetric.
